@@ -1,0 +1,14 @@
+C:\Users\arodr\source\repos\LocadoraVeiculo\LocadoraVeiculo\bin\Debug\net8.0\LocadoraVeiculo.exe
+C:\Users\arodr\source\repos\LocadoraVeiculo\LocadoraVeiculo\bin\Debug\net8.0\LocadoraVeiculo.deps.json
+C:\Users\arodr\source\repos\LocadoraVeiculo\LocadoraVeiculo\bin\Debug\net8.0\LocadoraVeiculo.runtimeconfig.json
+C:\Users\arodr\source\repos\LocadoraVeiculo\LocadoraVeiculo\bin\Debug\net8.0\LocadoraVeiculo.dll
+C:\Users\arodr\source\repos\LocadoraVeiculo\LocadoraVeiculo\bin\Debug\net8.0\LocadoraVeiculo.pdb
+C:\Users\arodr\source\repos\LocadoraVeiculo\LocadoraVeiculo\obj\Debug\net8.0\LocadoraVeiculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arodr\source\repos\LocadoraVeiculo\LocadoraVeiculo\obj\Debug\net8.0\LocadoraVeiculo.AssemblyInfoInputs.cache
+C:\Users\arodr\source\repos\LocadoraVeiculo\LocadoraVeiculo\obj\Debug\net8.0\LocadoraVeiculo.AssemblyInfo.cs
+C:\Users\arodr\source\repos\LocadoraVeiculo\LocadoraVeiculo\obj\Debug\net8.0\LocadoraVeiculo.csproj.CoreCompileInputs.cache
+C:\Users\arodr\source\repos\LocadoraVeiculo\LocadoraVeiculo\obj\Debug\net8.0\LocadoraVeiculo.dll
+C:\Users\arodr\source\repos\LocadoraVeiculo\LocadoraVeiculo\obj\Debug\net8.0\refint\LocadoraVeiculo.dll
+C:\Users\arodr\source\repos\LocadoraVeiculo\LocadoraVeiculo\obj\Debug\net8.0\LocadoraVeiculo.pdb
+C:\Users\arodr\source\repos\LocadoraVeiculo\LocadoraVeiculo\obj\Debug\net8.0\LocadoraVeiculo.genruntimeconfig.cache
+C:\Users\arodr\source\repos\LocadoraVeiculo\LocadoraVeiculo\obj\Debug\net8.0\ref\LocadoraVeiculo.dll
